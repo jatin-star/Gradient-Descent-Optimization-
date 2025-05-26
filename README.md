@@ -10,3 +10,6 @@ Gradeint Descent Optimization Algorithms ---------------
 9. Lion - Sign based optimizer, simplest optimizer, added sign over momentum. Takes only direction leaving magnitude. Move with fixed steps. Computationally efficient (only one momentum with sign). 
 
 10. Lion & Adabelief provide extensive performance.
+
+11. ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
