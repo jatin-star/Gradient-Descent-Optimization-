@@ -1,3 +1,11 @@
+<table>
+  <tr>
+    <td><img src="Bias_difference_adam.png" alt="Bias Difference Adam" width="500"/></td>
+    <td><img src="Momentum bias.gif" alt="Momentum Bias" width="500"/></td>
+  </tr>
+</table>
+
+
 Gradeint Descent Optimization Algorithms ---------------
 1. SGD - simple gradient descent
 2. Momentum - Added momentum to escape local minima
@@ -10,10 +18,3 @@ Gradeint Descent Optimization Algorithms ---------------
 9. Lion - Sign based optimizer, simplest optimizer, added sign over momentum. Takes only direction leaving magnitude. Move with fixed steps. Computationally efficient (only one momentum with sign). 
 
 10. Lion & Adabelief provide extensive performance.
-
-<table>
-  <tr>
-    <td><img src="Bias_difference_adam.png" alt="Bias Difference Adam" width="500"/></td>
-    <td><img src="Momentum bias.gif" alt="Momentum Bias" width="500"/></td>
-  </tr>
-</table>
