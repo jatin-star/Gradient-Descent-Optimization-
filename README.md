@@ -11,5 +11,10 @@ Gradeint Descent Optimization Algorithms ---------------
 
 10. Lion & Adabelief provide extensive performance.
 
-11. ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+<table>
+  <tr>
+    <td><img src="path/to/image.png" alt="PNG Image" width="200"/></td>
+    <td><img src="momentum bias.gif" alt="GIF Image" width="200"/></td>
+  </tr>
+</table>
 
