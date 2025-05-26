@@ -11,4 +11,4 @@ Gradeint Descent Optimization Algorithms ---------------
 
 10. Lion & Adabelief provide extensive performance.
 
-[My Medium Blog]([https://medium.com/@your_username](https://medium.com/@jatinskytek1/optimizers-made-easy-a-beginner-friendly-explanation-with-real-world-examples-9bde43cfc8df))
+[My Medium Blog]([https://medium.com/@jatinskytek1/optimizers-made-easy-a-beginner-friendly-explanation-with-real-world-examples-9bde43cfc8df])
