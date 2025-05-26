@@ -13,8 +13,7 @@ Gradeint Descent Optimization Algorithms ---------------
 
 <table>
   <tr>
-    <td><img src="path/to/image.png" alt="PNG Image" width="200"/></td>
-    <td><img src="momentum bias.gif" alt="GIF Image" width="200"/></td>
+    <td><img src="Bias_difference_adam.png" alt="Bias Difference Adam" width="300"/></td>
+    <td><img src="Momentum bias.gif" alt="Momentum Bias" width="300"/></td>
   </tr>
 </table>
-
